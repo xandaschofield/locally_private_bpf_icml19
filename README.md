@@ -5,10 +5,10 @@ For updates to the paper, go to the [arXiv link](https://arxiv.org/abs/1803.0847
 
 BibTeX entry:
 ```
-@article{schein2018locally,
-  title={Locally private bayesian inference for count models},
+@inproceedings{schein2019locally,
+  title={Locally private Bayesian inference for count models},
   author={Schein, Aaron and Wu, Zhiwei Steven and Schofield, Alexandra and Zhou, Mingyuan and Wallach, Hanna},
-  journal={arXiv preprint arXiv:1803.08471},
-  year={2018}
+  booktitle={Proceedings of the 36th International Conference on Machine Learning},
+  year={2019}
 }
 ```
